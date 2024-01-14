@@ -7,8 +7,6 @@ Building a logistic regression model to assign a lead score between 0 and 100 to
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShraddhaS1ngh/Lead_Scoring_Case_Study)
 
 <center><img src="assets/img/LSC.jpg"/></center>
-<br>
-<img src="assets/img/TK.gif" width="100" height="80">
 
 
 
