@@ -1,17 +1,12 @@
 title: <p align="center"> Shraddha Singh </p>
-logo: /assets/img/logo1.png
+logo: /assets/img/logo2.png
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a>|
-  <a href="https://www.linkedin.com/>LinkedIn</a>|
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/>LinkedIn</a> |
   <a href="https://github.com/ShraddhaS1ngh">GitHub</a>
-
-
-
-  <br>
-  <br>
-  <br>
+  
   <br>
   I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
   Worked with Big Data Analytics team.
@@ -22,7 +17,4 @@ description:
 
 
 
-
-
-  
 theme: jekyll-theme-minimal
