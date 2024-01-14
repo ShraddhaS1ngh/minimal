@@ -1,11 +1,18 @@
 title: <p align="center"> Shraddha Singh </p>
 logo: /assets/img/logo1.png
+
 description:
-<p align="center"><a href="https://www.linkedin.com/>LinkedIn</a>|
-<a href="https://github.com/ShraddhaS1ngh/">GitHub</a>
-<br>
-I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
-Also handing the Big Data from real-time Ad call data.Worked with IBM Research at Big Data Analytics team.Working in AdTech domain for 3 years.
-<br>
-</p>
+  <p align="center">
+  <a href="https://www.linkedin.com/>LinkedIn</a>|
+  <a href="https://github.com/ShraddhaS1ngh/">GitHub</a>
+  
+  <br>
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with Big Data Analytics team.
+  Worked in tech domain for 1 years.
+  <br>
+  </p>
+
+
+  
 theme: jekyll-theme-minimal
